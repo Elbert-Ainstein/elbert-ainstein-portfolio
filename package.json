@@ -1,0 +1,33 @@
+{
+  "name": "elbert-homepage",
+  "version": "1.0.0",
+  "description": "Elbert's Portfolio Web",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "prettier": "prettier --write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Ian Wu",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.1",
+    "@chakra-ui/react": "^1.7.4",
+    "@chakra-ui/theme": "^1.12.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "framer-motion": "^5.6.0",
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "three": "^0.135.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-next": "^12.0.8",
+    "prettier": "^2.5.1"
+  }
+}
