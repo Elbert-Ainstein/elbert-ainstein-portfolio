@@ -58,8 +58,9 @@ const Page = () => {
                         Work
                     </Heading>
                     <Paragraph>
-                        Elbert is this random nerdy programmer who uses react and electron to build different websites and apps. He is also a blender artist who loves to build projects and make cool games with friends. 
-                        He also likes to also find solutions to solve frequent problems encountered by many other developers. Currently, he and his friend, Boosted,
+                        Elbert is a react and electron programmer who integrates many libraries and software into his code to build unique websites and apps. 
+                        He is also an experienced blender artist who loves to build projects and make cool games with friends, and has been working on many projects. 
+                        He enjoys solving frequent problems encountered by many other developers. Currently, he and his friend, Boosted,
                         are working on a product called {' '}
                         <NextLink href="/works/imite"> 
                             <Link>Imite</Link> 
