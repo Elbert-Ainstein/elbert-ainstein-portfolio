@@ -83,7 +83,7 @@ const Page = () => {
                         Bio
                     </Heading>
                     <BioSection>
-                        <BioYear>2007</BioYear>
+                        <BioYear>2006</BioYear>
                         Born in Sydney, Australia.
                     </BioSection>
                     <BioSection>
@@ -108,7 +108,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>Currently:</BioYear>
-                        Attending 8th grade at HKIS (Hong Kong International School).
+                        Attending 9th grade in Hong Kong.
                     </BioSection>
                 </Section>
             </Container>

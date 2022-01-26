@@ -14,7 +14,7 @@ import {
     IconButton,
     useColorModeValue
 } from '@chakra-ui/react';
-import {HamburgerIcon, HumburgerIcon} from '@chakra-ui/icons';
+import {HamburgerIcon} from '@chakra-ui/icons';
 import ThemeToggleButton from './theme-toggle-btn';
 
 const LinkItem = ({ href, path, children}) => {
